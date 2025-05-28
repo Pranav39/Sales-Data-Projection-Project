@@ -2,7 +2,7 @@
 
 ## Goal
 
-The **Sales Data Projection** project is a real-time data ingestion and analytics pipeline using AWS. It simulates sales data generation, processes the data using streaming and transformation services, and stores it in a queryable data lake for analysis using SQL.
+The **Sales Data Projection** project is a real-time data ingestion and analytics pipeline using AWS. It simulates the generation of sales data for tech gadgets, processes the data using streaming and transformation services, and stores it in a queryable data lake for analysis using SQL. 
 
 ---
 
